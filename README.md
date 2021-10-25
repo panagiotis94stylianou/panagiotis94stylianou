@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pan
+- 👋 Hi, I’m Pan @panagiotis94stylianou
 - 👀 I’m interested in Data Analysis and looking for a mentor
 - 🌱 I’m currently learning Python, SQL, and Tableau
 - 💞️ I’m looking to collaborate on any Data Analysis related projects
